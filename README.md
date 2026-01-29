@@ -44,18 +44,18 @@ pkg install git tor curl -y
 ```
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/termux-ipchanger
+git clone https://github.com/Suman789438/TOR-IP.git
 ```
 ```bash
-cd termux-ipchanger
-```
-
-```bash
-chmod +x termux-ipchanger.sh
+cd TOR-IP
 ```
 
 ```bash
-./termux-ipchanger.sh
+chmod +x Tor-ip.sh
+```
+
+```bash
+bash tor-ip.sh
 ```
 
 
