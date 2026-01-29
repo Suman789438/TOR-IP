@@ -36,11 +36,27 @@ Open Termux and run:
 
 ```bash
 pkg update && pkg upgrade -y
+
+```
+
+```bash
 pkg install git tor curl -y
+```
+
+```bash
 git clone https://github.com/YOUR_USERNAME/termux-ipchanger
+```
+```bash
 cd termux-ipchanger
+```
+
+```bash
 chmod +x termux-ipchanger.sh
+```
+
+```bash
 ./termux-ipchanger.sh
+```
 
 
 
