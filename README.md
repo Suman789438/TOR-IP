@@ -55,7 +55,7 @@ chmod +x Tor-ip.sh
 ```
 
 ```bash
-bash tor-ip.sh
+bash Tor-ip.sh
 ```
 
 
